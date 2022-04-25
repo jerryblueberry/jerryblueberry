@@ -1,0 +1,154 @@
+.header{
+    margin-top: 1px;
+}
+#Python{
+    width: 900px;
+}
+.nav_logo{
+    padding-left:31rem;
+    font-size: 34px;
+    font-weight: bold;
+    background-color: lightblue;
+    padding-top: 11px;
+}
+.start_l{
+    margin-left: 1rem;
+    margin-top: 4rem;
+    margin-right: 1rem;
+    color:rgba(0, 0, 0, 0.774);
+    border-bottom: 3px solid rgba(151, 102, 241, 0.534);
+    padding-left: 25rem;
+
+    padding-bottom: 29px;
+    
+
+}
+.learn_pp{
+    margin-top: -3rem;
+    padding-left: 27rem;
+    color: rgba(0, 0, 0, 0.664);
+}
+.nav_bar{
+    
+    margin-top: -14rem;
+    width: 100%;
+    background-color: rgba(102, 241, 165, 0.61);
+    height: 40px;
+    
+    padding-top: 2rem;
+    margin-bottom: 1rem;
+    
+
+
+
+}
+.python_logo{
+    margin-bottom: 8rem;
+
+}
+.nav_ex{
+    display:inline-flex;
+    padding-top: -1rem;
+    margin-top: -11rem;
+    margin-left: 1rem;
+    list-style: none;
+    
+ 
+}
+.nav_ex a{
+    margin-top: -11rem;
+    padding-right: 5rem;
+    text-decoration:none;
+    color: black;
+    font-size: 20px;
+    padding-bottom: 2px;
+    padding-top: 4px;
+   
+}
+.nav_ex a:hover{
+    color:white
+}
+
+.tab{
+    float:left;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+    width: 20%;
+    height: 500px;
+    padding-left: -1rem;
+    margin-top:1px;
+    height: 100%;
+    
+
+
+}
+.tab button{
+    display:block;
+    background-color: inherit;
+    color: black;
+    padding-top: 22px;
+    padding-bottom: 11px;
+    padding-right: 1px;
+    width: 100%;
+    border: none;
+    outline: none;
+    text-align: left;
+    cursor:pointer;
+    transition: 0.3s;
+    font-size: 17px;
+    margin-top: 11px;
+
+}
+.tab button:hover{
+    background-color: #ddd;
+}
+.tab button.active{
+    background-color: #ccc;
+
+}
+.tabcontent{
+    float:left;
+    padding: 0px 12px;
+    width: 70%;
+    height: 400px;
+    margin-top: ;
+    margin-left: 3rem;
+    padding-top: 2rem;
+    padding-top: 7rem;
+    font-size: 21px;
+    font-weight: 400;
+    margin-top: -6rem;
+}
+.tab a{
+    text-decoration: none;
+}
+.blue_col{
+    color:blue;
+
+}
+.brown_col{
+    color:rgba(165, 42, 42, 0.767);
+}
+.red_col{
+    color: red;
+}
+
+.sec_txt{
+    
+}
+.thr_txt{
+    margin-top: 1rem;
+}
+.ex_html{
+    width: 80%;
+    height: 400px;
+    background-color: grey;
+    margin-top: 11rem;
+    
+}
+.code_html{
+    margin-left: 11rem;
+    padding-right: 11rem;
+    margin-top: -11rem;
+}
+

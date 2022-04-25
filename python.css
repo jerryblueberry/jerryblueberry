@@ -1,0 +1,542 @@
+.header{
+    margin-top: 1px;
+}
+#Python{
+    width: 900px;
+}
+.nav_logo{
+    padding-left:31rem;
+    font-size: 34px;
+    font-weight: bold;
+    background-color: lightblue;
+    padding-top: 11px;
+}
+.start_l{
+    margin-left: 1rem;
+    margin-top: 2rem;
+    margin-right: 1rem;
+    color:rgba(0, 0, 0, 0.774);
+    border-bottom: 3px solid rgba(115, 216, 115, 0.651);
+    padding-left: 25rem;
+
+    padding-bottom: 29px;
+}
+.learn_pp{
+    margin-top: -3rem;
+    padding-left: 27rem;
+    color: rgba(0, 0, 0, 0.664);
+}
+/* for tabs tooglable*/
+.tab {
+    float: left;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+    width: 20%;
+    height: 500px;
+    padding-left: -1rem;
+    margin-top: -4rem;
+    height: 100%;
+  }
+  
+  /* Style the buttons inside the tab */
+  .tab button {
+    display: block;
+    background-color: inherit;
+    color: black;
+    padding-top: 22px ;
+    padding-bottom: 1px;
+    padding-right: 1px;
+    width: 100%;
+    border: none;
+    outline: none;
+    text-align: left;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 17px;
+    margin-top: 11px;
+  }
+  
+  /* Change background color of buttons on hover */
+  .tab button:hover {
+    background-color: #ddd;
+  }
+  
+  /* Create an active/current "tab button" class */
+  .tab button.active {
+    background-color: #ccc;
+  }
+  
+  /* Style the tab content */
+  .tabcontent {
+    float: left;
+    padding: 0px 12px;
+    
+    
+    width: 40%;
+    border-left: none;
+    height: 400px;
+    margin-top: rem;
+    margin-left: 24rem;
+    padding-left: 15rem;
+    padding-top: 25rem;
+    
+  }
+
+  .intro_pp{
+      margin-top: -52rem;
+      margin-left:-2rem;
+      font-size:29px;
+  }
+  .print{
+      color:blue;
+      background-color: white;
+  }
+  .sybx{
+      color:red;
+  }
+  .main_exp{
+    width:80%;
+    height: 150px;
+    background-color: rgba(128, 128, 128, 0.568);
+    margin-left:-4rem;
+    padding-left: 4rem;
+    padding-top: 1rem;
+  }
+  .ex_py{
+      font-size: 16px;
+      padding-top: 2rem;
+  }
+  .syntax_exp{
+      width: 70%;
+      background-color:white;
+      height: 35px;
+      padding-top: 21px;
+      padding-left:2rem
+  }
+#Python{
+      margin-left: -11rem;
+      margin-top:26rem;
+}
+.int_pp{
+    margin-left: -2rem;
+    color:black;
+    padding-right: 11px;
+    font-size: 19px;
+}
+.used_pp{
+    color:black;
+    font-size: 28px;
+    margin-left: -2rem;
+}
+.listed{
+    color:black;
+    font-size: 20px;
+}
+.do_pp{
+    margin-left: -2rem;
+    font-size: 28px;
+}
+.do-p{
+    font-size: 20px
+}
+.why_p{
+    font-size: 28px;
+    margin-left: -2rem;
+
+}
+.why-pp{
+    font-size: 20px;
+}
+.goos_knw{
+    font-size: 28px;
+    margin-left: -2rem;
+
+}
+.know{
+    font-size: 20px;
+
+}
+.exc{
+    margin-top: -59rem;
+}
+.sub_exe{
+    margin-left: -19rem;
+}
+.Syntax{
+    font-size: 26px;
+    margin-left: -2rem;
+    
+    margin-right: 11px;
+
+
+}
+.syn_comp{
+    font-size: 20px;
+}
+.ex_py{
+    margin-left: 4rem;
+    
+    
+}
+.exc{
+    
+    margin-left: -19rem;
+    font-size: 29px;
+}
+.sub_exe{
+    
+    font-size: 20px;
+}
+.exe_col{
+    width:50%;
+    background-color: black;
+    height:50px;
+    padding-bottom: 11px;
+    padding-right:1rem;
+    display:block;
+    padding-left: 5em;
+    margin-left: -19rem;
+    padding-top: 11px;
+    
+ 
+}
+.text_sn{
+    font-size: 18px;
+    color:white;
+    
+}
+.out_ex{
+    color:white;
+    font-size: 18px;
+}
+.text_opp{
+    margin-left: -19rem;
+    font-size: 21px;
+    font-weight: 200;
+}
+.opp_back{
+    width: 80%;
+    height: 40px;
+    background-color: black;
+    padding-top: 12px;
+    padding-bottom: 1px;
+    margin-left: -19rem;
+    padding-left: 111px;
+}
+.text-back{
+    color:white;
+  
+    
+}
+#Comment{
+    margin-top: -27rem;
+    margin-left:-5rem;
+    
+    
+}
+.title_comm{
+    font-size: 29px;
+    margin-left: -7rem;
+    
+    
+   
+}
+.syb_comm{
+    margin-left: -7rem;
+}
+.sym_com{
+    margin-left: -7rem;
+}
+.symm-comn{
+    margin-left: -7rem;
+}
+.creating_co{
+    margin-left: -7rem;
+}
+.creat_tt{
+    margin-left: -7rem;
+}
+.exa_com{
+    margin-left: -7rem;
+}
+p{
+    color:black;
+    font-size: 20px;
+}
+.ex_mult{
+    width: 40%;
+    height: 140px;
+    background-color: aliceblue;
+    padding-left: 11px;
+    padding-right: 11px;
+}
+.prr{
+    color:red;
+}
+.examp_pr{
+    color:blue;
+}
+.ex_title{
+    color:blueviolet;
+}
+
+#Casting{
+    margin-top: -29rem;
+    margin-left: -5rem;
+}
+
+h3{
+    font-size: 29px;
+
+}
+.var_sub{
+    font-size: 20px;
+}
+.red_int{
+    color:red;
+}
+.flo_sec{
+    font-size: 20px;
+    margin-left: -10rem;
+}
+.nav_bar{
+    
+    margin-top: -3.5rem;
+    width: 100%;
+    background-color: rgba(102, 241, 165, 0.61);
+    height: 40px;
+    margin-bottom: 5rem;
+    padding-top: 2rem;
+
+
+
+}
+.nav_ex{
+    display:inline-flex;
+    padding-top: -1rem;
+    margin-top: -11rem;
+    margin-left: 1rem;
+    list-style: none;
+    
+ 
+}
+.nav_ex a{
+    margin-top: -11rem;
+    padding-right: 5rem;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    padding-bottom: 2px;
+    padding-top: 4px;
+   
+}
+.nav_ex a:hover{
+    color:white
+}
+#Strings h3{
+    margin-top: -55rem;
+    margin-left: -10rem;
+}
+.def_str{
+    margin-left:-15rem;
+}
+.hwlo{
+    color:red;
+    background-color: #ccc;
+    padding-left: 1rem;
+    margin-right: 41rem;
+    font-size: 19px;
+    margin-left: -15rem;
+    
+    
+
+}
+.tio_cas{
+    margin-left:-9rem;
+}
+.cass_ess{
+    margin-left: -9rem;
+}
+.var_sub{
+    margin-left: -9rem;
+}
+.Sec_cast{
+    margin-left: -9rem;
+}
+.bll_cc{
+    color:rgba(0, 0, 0, 0.582);
+    font-size: 19px;
+     margin-top: -2rem;
+     margin-left: -9rem;
+}
+.red_col{
+    margin-top: -1.2rem;
+    font-size: 19px;
+    margin-left: -1rem;
+    background-color: #ccc;
+    color:red;
+    margin-right: 27rem;
+    padding-left: 2px;
+
+}
+.demo{
+    margin-left: -15.5rem;
+    font-size: 21px;
+    font-weight: 400;
+}
+.pp_edd{
+    color:red;
+}
+.print_nur{
+    color:blue;
+    font-size: 19px;
+
+}
+.blue_str{
+    color:red;
+}
+.exap-string{
+    width: 80%;
+    background-color:grey;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    margin-left: -15rem;
+   
+}
+.final_str{
+    padding-left: 61px;
+    padding-bottom: 11px;
+    width: 80px;
+    background-color: white;
+    padding-left: 114px;
+    padding-right: 114px;
+    margin-left: 1rem;
+    border-left: 5px solid green;
+}
+.concat{
+    margin-top: -59rem;
+    margin-right: 4rem;
+    margin-left: -19rem;
+}
+.con_st{
+    margin-left: -19rem;
+}
+.text_con{
+    font-size: 19px;
+}
+.Exam_con{
+    font-size:23px;
+    margin-left: -19rem;
+    
+}
+.mer_con{
+    margin-left: -19rem;
+    font-size: 23px;
+    font-weight: 400;
+    
+}
+.a_con{
+    color:red;
+}
+.b_con{
+    color:red;
+
+}
+.c_cont{
+    color:red;
+}
+.text_nums{
+    margin-left: -19rem;
+}
+.con_exp{
+    width: 100px;
+    background-color: aliceblue;
+    padding-left: 21rem;
+    margin-left: -19rem;
+}
+.red_tr{
+    color:red;
+}
+.red_ss{
+    color:red;
+}
+.w_array{
+    margin-left:-19rem;
+    margin-top: -59rem;
+    font-weight: 700;
+}
+.sub_arr{
+    margin-left: -19rem;
+    font-size: 19px;
+}
+
+.bor_array{
+    font-size: 20px;
+    font-weight: 400;
+    margin-left: -19rem;
+    width: 100%;
+    background-color: #ddd;
+    border: 2px solid red;
+}
+.car1{
+    font-weight: 400;
+    font-size: 21px;
+    margin-left: 3rem;
+}
+.com_arr{
+    color:red;
+    font-size: 21px;
+    font-weight: 400;
+}
+
+.des_arry{
+    font-size: 19px;
+    margin-left: -19rem;
+    margin-top: 2rem;
+}
+.more_arr{
+    margin-left: -19rem;
+}
+.access_ex{
+    width:100%;
+    background-color: #ddd;
+    margin-left: -19rem;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    padding-left: 21px;
+    font-size: 20px;
+}
+.val_arr{
+    margin-top: 2rem;
+}
+.more_arr{
+    font-size: 21px;
+    margin-top: 1rem;
+    font-weight: 800;
+}
+.m_array{
+    font-weight: 400;
+}
+.w_array{
+    margin-top: -55rem;
+}
+.ep_arrr{
+    border-left: 5px solid green;
+    width: 40%;
+    background-color: white;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    
+}
+.exc{
+    margin-top: -53rem;
+}
+.concat{
+    margin-top: -54rem;
+}
+.red_array{
+    color:red;
+}
+.tab a{
+    text-decoration: none;
+}
